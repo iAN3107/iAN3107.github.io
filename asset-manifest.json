@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f2ad097b.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/etiquetas.png": "/static/media/etiquetas.00ba71235d0dacc33256.png",
+    "static/media/postoapp.png": "/static/media/postoapp.8a03eeac15f0ceb8edd5.png",
+    "static/media/reppos.jpg": "/static/media/reppos.d9be2b9f6aef1baade3d.jpg",
+    "static/media/etiquetas.jpg": "/static/media/etiquetas.22857084cfd579459b63.jpg",
+    "static/media/asdasd.jpg": "/static/media/asdasd.547750183e5dfdb9e406.jpg",
+    "static/media/53783450.jpeg": "/static/media/53783450.32ebdde825672cdbc54f.jpeg",
+    "static/media/reppos-social-share.png": "/static/media/reppos-social-share.3201c6fe4e8c559fe651.png",
+    "static/media/AgnesProfile.jpg": "/static/media/AgnesProfile.2625cd350556470afb57.jpg",
+    "index.html": "/index.html",
+    "main.f2ad097b.js.map": "/static/js/main.f2ad097b.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2ad097b.js"
+  ]
+}
